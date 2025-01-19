@@ -53,7 +53,7 @@ A web-based application to report, track, and manage road hazards in your locali
 ## Checklist
 
 ### **1. Setup**
-- [ ] Install Ruby on Rails and necessary dependencies.
+- [x] Install Ruby on Rails and necessary dependencies.
 - [ ] Set up the project and initialize the database.
 
 ### **2. User Features**
